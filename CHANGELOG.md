@@ -1,3 +1,8 @@
+## [Unreleased]
+
+- stealth address derivation path tightened
+- x402 payment proof validation hardened
+
 # Changelog
 
 All notable changes to this project are documented here. The format is based on
