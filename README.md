@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Site-Coming%20Soon-84D9B5?style=for-the-badge&logoColor=06231b" alt="Site Coming Soon" height="34" />
+  <a href="https://www.tryclawdis.app/"><img src="https://img.shields.io/badge/tryclawdis.app-84D9B5?style=for-the-badge&logoColor=06231b" alt="Website" height="34" /></a>
   &nbsp;
   <a href="https://x.com/ClawdisAI"><img src="https://img.shields.io/badge/%40ClawdisAI-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" height="34" /></a>
   &nbsp;
@@ -68,7 +68,7 @@ infrastructure, not a mixer.
 ## Links
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Site-Coming%20Soon-84D9B5?style=for-the-badge&logoColor=06231b" alt="Site Coming Soon" height="34" />
+  <a href="https://www.tryclawdis.app/"><img src="https://img.shields.io/badge/tryclawdis.app-84D9B5?style=for-the-badge&logoColor=06231b" alt="Website" height="34" /></a>
   &nbsp;
   <a href="https://x.com/ClawdisAI"><img src="https://img.shields.io/badge/%40ClawdisAI-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" height="36" /></a>
   &nbsp;
